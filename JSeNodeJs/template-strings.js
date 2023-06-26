@@ -7,5 +7,4 @@ const cidadeNascimento = "SP";
 
 const apresentacao = `Meu nome e ${nome}, minha idade e ${idade} e nasci na cidade de ${cidadeNascimento}`;
 
-console.log(apresentacao)
-
+console.log(apresentacao);
